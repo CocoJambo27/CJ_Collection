@@ -10,6 +10,8 @@ Its a collection of some links, videos, books and etc that helped me a lot, gave
 Provided material is not sponsored, if it will be sponsored or provided by someone it will be mentioned in the comments.  
 More material will be added over time.
 
+Each section will have its own README file with general information.
+
 ## General Info
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
